@@ -3,8 +3,9 @@
 Eu sou Pedro Arthur Carvalho Machado, sou estudante de Ciencias da Computação. Tenho experiencias principalmente com tecnologias Python, Java, e tecnologias web(HTML,CSS,JS, e PHP). Estou disposto a enfrentar desafios e solucionar problemas.
 
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Arthur270BR&custom_title=Status%20Github_all_commits=true&theme=react)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Arthur270BR&custom_title=Status%20Github&include_all_commits=true&theme=react)
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Arthur270BR&layout=compact&langs_count=4&theme=react)
+
 ###
 
 <img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnp1azVsZWo0NGN0NDlpOGZqaDhnMWNzYnlxa242aHp5a3MxZXJqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7srpeY4TZMrO8/giphy.gif"  />
