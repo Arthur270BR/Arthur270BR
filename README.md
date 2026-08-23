@@ -3,11 +3,7 @@
 Eu sou Pedro Arthur Carvalho Machado, sou estudante de Ciencias da Computação. Tenho experiencias principalmente com tecnologias Python, Java e tecnologias web(HTML,CSS,JS). Estou disposto a enfrentar desafios e solucionar problemas.
 
 
-  <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Arthur270BR/Arthur270BR/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Arthur270BR/Arthur270BR/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Arthur270BR&custom_title=Meus%20Status%20de%20Github&include_all_commits=true&theme=react)](https://github-stats-extended.vercel.app/api?username=Arthur270BR&custom_title=Meus%20Status%20de%20Github&include_all_commits=true&theme=react)
 ###
 
 <img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnp1azVsZWo0NGN0NDlpOGZqaDhnMWNzYnlxa242aHp5a3MxZXJqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7srpeY4TZMrO8/giphy.gif"  />
