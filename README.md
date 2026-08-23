@@ -10,7 +10,7 @@ Eu sou Pedro Arthur Carvalho Machado, sou estudante de Ciencias da Computação.
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/6esd8u.mp4"  />
+<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnp1azVsZWo0NGN0NDlpOGZqaDhnMWNzYnlxa242aHp5a3MxZXJqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7srpeY4TZMrO8/giphy.gif"  />
 
 ###
 
